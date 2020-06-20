@@ -44,6 +44,6 @@ agnostic_nms=False, augment=False, classes=None, conf_thres=0.4, device='', four
 
 ### TODO
 
-[] Remove a bug which classifies people as low risk instead of high.
-[] Add live video support
-[] Add image support
+- [ ] Remove a bug which classifies people as low risk instead of high.
+- [ ] Add live video support
+- [ ] Add image support
