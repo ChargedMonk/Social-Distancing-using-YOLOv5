@@ -2,7 +2,7 @@
 
 ### Classifying people as high risk and low risk based on their distance to other people :mask:
 
-This is a customization of the original [YOLOv5](https://github.com/ultralytics/yolov5 "YOLOv5").
+The original [YOLOv5](https://github.com/ultralytics/yolov5 "YOLOv5") model was used to detect people. Thereafter the people were classified as "*High Risk*" and "*Low Risk*" based on their distance from one another.
 
 ---
 
